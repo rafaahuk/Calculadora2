@@ -1,0 +1,9 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\bin\Debug\Calculadora_2.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\bin\Debug\Calculadora_2.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\Calculadora_2.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\Calculadora_2.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\Calculadora_2.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Calculadora_2\Calculadora_2\obj\x86\Debug\Calculadora_2.pdb
